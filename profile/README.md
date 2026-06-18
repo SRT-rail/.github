@@ -9,7 +9,7 @@ _Building the digital tools that power the design, production, and maintenance o
 
 [![Website](https://img.shields.io/badge/Website-srt--rail.com-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://srt-rail.com/)
 [![Location](https://img.shields.io/badge/HQ-Fano%20(PU)%2C%20Italy-success?style=flat-square&logo=googlemaps&logoColor=white)](https://srt-rail.com/)
-[![Group](https://img.shields.io/badge/Part%20of-Salcef%20Group-orange?style=flat-square)](https://www.salcef.com/)
+
 
 </div>
 
