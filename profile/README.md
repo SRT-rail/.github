@@ -56,7 +56,7 @@ This is where our work will grow. We are actively building — and planning to b
 ## Contact
 
 📍 Via del Bersaglio, 2 — 61032 Fano (PU), Italy
-✉️ [info@srt-rail.com](mailto:info@srt-rail.com)
+✉️ [giovanni.montanari@srt-rail.com](mailto:giovanni.montanari@srt-rail.com)
 🔗 [srt-rail.com](https://srt-rail.com/) · [LinkedIn](https://it.linkedin.com/company/srt-rail)
 
 ---
