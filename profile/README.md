@@ -16,7 +16,7 @@ _Building the digital tools that power the design, production, and maintenance o
 
 ## About SRT
 
-**SRT — Smart Railway Technology S.r.l.** designs, builds, and maintains railway rolling stock and technologies for the global market. Our work spans the full breadth of the railway industry — from track works and electrification to logistics, and the design, construction, sale, rental, and after-sales service of railway machinery.
+**SRT — Smart Railway Technology S.r.l.**, designs, builds, and maintains railway rolling stock and technologies for the global market. Our work spans the full breadth of the railway industry — from track works and electrification to logistics, and the design, construction, sale, rental, and after-sales service of railway machinery.
 
 From our operational headquarters in **Fano (PU), Italy**, we operate an Industry 4.0 production hub where machinery and plants are interconnected into the company's information and logistics systems, enabling continuous production monitoring and data-driven decision making.
 
@@ -40,6 +40,13 @@ This organization is home to SRT's **software and IoT engineering** work. We des
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## Team
+
+| Role | Name |
+|------|------|
+| Scrum Master | Giovanni Montanari |
+| Developer | Zied Bousnina |
 
 ## Contact
 
