@@ -8,7 +8,7 @@ _Building the digital tools that power the design, production, and maintenance o
 
 [![Website](https://img.shields.io/badge/Website-srt--rail.com-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://srt-rail.com/)
 [![Location](https://img.shields.io/badge/HQ-Fano%20(PU)%2C%20Italy-success?style=flat-square&logo=googlemaps&logoColor=white)](https://srt-rail.com/)
-[![Group](https://img.shields.io/badge/Part%20of-Salcef%20Group-orange?style=flat-square)](https://www.salcef.com/)
+
 
 </div>
 
@@ -16,7 +16,7 @@ _Building the digital tools that power the design, production, and maintenance o
 
 ## About SRT
 
-**SRT — Smart Railway Technology S.r.l.**, a company of the **Salcef Group**, designs, builds, and maintains railway rolling stock and technologies for the global market. Our work spans the full breadth of the railway industry — from track works and electrification to logistics, and the design, construction, sale, rental, and after-sales service of railway machinery.
+**SRT — Smart Railway Technology S.r.l.** designs, builds, and maintains railway rolling stock and technologies for the global market. Our work spans the full breadth of the railway industry — from track works and electrification to logistics, and the design, construction, sale, rental, and after-sales service of railway machinery.
 
 From our operational headquarters in **Fano (PU), Italy**, we operate an Industry 4.0 production hub where machinery and plants are interconnected into the company's information and logistics systems, enabling continuous production monitoring and data-driven decision making.
 
@@ -50,5 +50,5 @@ This organization is home to SRT's **software and IoT engineering** work. We des
 ---
 
 <div align="center">
-<sub>© 2026 SRT S.r.l. — Single-member company · Salcef Group · All rights reserved.</sub>
+<sub>© 2026 SRT S.r.l. — Single-member company  · All rights reserved.</sub>
 </div>
