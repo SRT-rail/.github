@@ -40,7 +40,7 @@ Desktop application for material coding, tracking, and process management.
 | | |
 |------|------|
 | Giovanni Montanari | Scrum Master · Automation Team Leader |
-| Zied Bousnina | Full Stack Developer - i4 Hub backend & architecture |
+| Zied Bousnina |  Developer - i4 Hub backend & architecture |
 | Mattia | Developer - machine-side integration · Product Owner, Portale 2 |
 | Alessandro | Technical Consultant - legacy systems & field operations |
 
